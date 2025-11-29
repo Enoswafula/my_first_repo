@@ -4,7 +4,7 @@ Description of my first repository.
 
 ## Sub-heading
 
-Watch tutotial on youtube.
+Watch tutorial on youtube.
 
 
 ## Local Development
